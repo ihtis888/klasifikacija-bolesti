@@ -1,5 +1,5 @@
 package ai.dipl.maja;
-
+//komentar 
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
